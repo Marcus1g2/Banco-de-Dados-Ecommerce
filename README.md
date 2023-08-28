@@ -1,1 +1,1 @@
-#BootCamp Learning Database Specialist
+BootCamp Learning Database Specialist
